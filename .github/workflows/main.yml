@@ -20,4 +20,5 @@ jobs:
         uses: dsayling/commit-branch-check-action@v0.1.5
         with:
           github-token: ${{ github.token }}
+          dest-branch: main
           commit-message: "Automated deployment"
