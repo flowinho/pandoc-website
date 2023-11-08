@@ -80,7 +80,7 @@ dd p {
   margin-top: 8px;
   margin-bottom: 8px;
   clear:both;
-  line-height: 0.85 !important;
+  line-height: 0.76 !important;
 
   a:link { text-decoration: none; }
   a:visited { text-decoration: none; }
@@ -92,7 +92,7 @@ dd p {
   margin: 0;
   font-family: monospace;
   white-space: pre-wrap;
-  background: linear-gradient(90deg,navy,#1084d0);
+  background: linear-gradient(90deg,#7272e6,#7a5ada);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
