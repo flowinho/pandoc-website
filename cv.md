@@ -2,7 +2,7 @@
 title: CV
 ---
 
-Lead Developer iOS  
+**Lead Developer iOS**   
 Cross Solutions Charging  
 Robert Bosch GmbH  
 Leitzstraße 45  
