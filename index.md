@@ -10,7 +10,7 @@ Robert Bosch GmbH
 Leitzstraße 45  
 70469 Stuttgart-Feuerbach  
 
-**Kurze Biografie:** Aktuell arbeite ich als iOS Lead und Architekt in einem europaweiten Plattform-Projekt für EV-Ladeinfrastruktur. Davor war ich iOS Entwickler in diversen Projekten der Robert Bosch GmBH und beim Start-up [myScotty](https://www.growplatform.com/stories/myscotty-exitstory/ "myScotty"). Vor meiner Bosch-Zeit war ich Technical Director in der Videospiel- und Softwarefirma [Zeitland media and games GmbH](https://zeitland.de "Zeitland media and games GmbH"). 
+**Kurze Biografie:** Aktuell arbeite ich als iOS Lead und Architekt in einem europaweiten Plattform-Projekt für EV-Ladeinfrastruktur der [Robert Bosch GmbH](https://bosch.de). Davor war ich iOS Entwickler in diversen Projekten der Robert Bosch GmBH und beim Start-up [myScotty](https://www.growplatform.com/stories/myscotty-exitstory/ "myScotty"). Vor meiner Bosch-Zeit war ich Technical Director in der Videospiel- und Softwarefirma [Zeitland media and games GmbH](https://zeitland.de "Zeitland media and games GmbH"). 
 
 ## Letzte Veröffentlichungen
 
@@ -22,7 +22,8 @@ florian dot schuttkowski at de dot bosch dot com
 
 ## Ausbildung
 - **B.Sc.**, [ Ravensburg-Weingarten University of Applied Sciences ](https://rwu.de „Ravensburg-Weingarten University of Applied Sciences“), Department of [Applied Informatics](https://www.rwu.de/studieren/studiengaenge/angewandte-informatik „Applied Informatics“). 2011
-	- Gründungsmitglied der Mobile Application Development Group (M.A.D.), first App Development Student Group at the University
+	- Gründungsmitglied der Mobile Application Development Group (M.A.D.), erste App Development Student Group der Fachhochschule.
+	- Sprecher „Nacht der Informatik“.
 
 ## Arbeitserfahrung
 - **Lead Developer iOS**, Cross Solutions Charging, [Robert Bosch GmbH](https://www.bosch.de/ „Robert Bosch GmbH“). 2021-Heute
