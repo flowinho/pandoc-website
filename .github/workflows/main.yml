@@ -28,7 +28,12 @@ jobs:
             -exec sh -c 'pandoc ${0} 
             -s
             -c pandoc.css
+            -A header.md
+            -B footer.md
             -o ${0%.md}.html' {} \;"
+      
+      - name: Cleanup
+        run: rm README.html header.html footer.html
       
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
