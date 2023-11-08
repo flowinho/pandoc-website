@@ -1,5 +1,7 @@
 name: Convert Website using Pandoc
 
+on: push
+
 jobs:
   convert:
     runs-on: ubuntu-latest
