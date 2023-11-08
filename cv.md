@@ -2,11 +2,11 @@
 title: CV
 ---
 
-Lead Developer iOS
-Cross Solutions Charging
-Robert Bosch GmbH
-Leitzstraße 45
-70469 Stuttgart-Feuerbach
+Lead Developer iOS  
+Cross Solutions Charging  
+Robert Bosch GmbH  
+Leitzstraße 45  
+70469 Stuttgart-Feuerbach  
 
 ## Kontaktinformationen
 
