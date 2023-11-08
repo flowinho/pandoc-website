@@ -1,1 +1,16 @@
+name: Convert Website using Pandoc
 
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Commit and Push Branch
+        uses: dsayling/commit-branch-check-action@v0.1.5
+        with:
+          github-token: 
+          dest-branch: # optional
+          commit-message: "Automated deployment"
