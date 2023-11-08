@@ -10,13 +10,15 @@ Robert Bosch GmbH
 Leitzstraße 45  
 70469 Stuttgart-Feuerbach  
 
-**Kurze Biografie:** Aktuell arbeite ich als iOS Lead und Architekt in einem europaweiten Plattform-Projekt für EV-Ladeinfrastruktur der [Robert Bosch GmbH](https://bosch.de). Davor war ich iOS Entwickler in diversen Projekten der Robert Bosch GmBH und beim Start-up [myScotty](https://www.growplatform.com/stories/myscotty-exitstory/ "myScotty"). Vor meiner Bosch-Zeit war ich Technical Director in der Videospiel- und Softwarefirma [Zeitland media and games GmbH](https://zeitland.de "Zeitland media and games GmbH"). 
+## Kurze Biografie
+Aktuell arbeite ich als iOS Lead und Architekt in einem europaweiten Plattform-Projekt für EV-Ladeinfrastruktur der [Robert Bosch GmbH](https://bosch.de). Davor war ich iOS Entwickler in diversen Projekten der Robert Bosch GmBH und beim Start-up [myScotty](https://www.growplatform.com/stories/myscotty-exitstory/ "myScotty"). Vor meiner Bosch-Zeit war ich Technical Director in der Videospiel- und Softwarefirma [Zeitland media and games GmbH](https://zeitland.de "Zeitland media and games GmbH"). 
 
 ## Letzte Veröffentlichungen
 
 
 ## Kontaktinformationen
 
+contact at flowinho dot com  
 florian dot schuttkowski at de dot bosch dot com  
 +49 
 
