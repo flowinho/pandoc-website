@@ -15,7 +15,20 @@ jobs:
         
       - name: Create timestamp
         run: date --rfc-3339=seconds > lastBuild.txt
-        
+
+      - name: Convert using pandoc
+        uses: docker://pandoc/latex:latest-ubuntu
+        with:
+          entrypoint: /bin/sh
+          args: >- 
+            -c "
+            for d in */; 
+            do mkdir output/$d; done;
+            find ./ -iname '*.md' -type f 
+            -exec sh -c 'pandoc ${0} 
+            -s
+            -o ${0%.md}.html' {} \;"
+      
       - name: Commit and push
         uses: EndBug/add-and-commit@v9
         with:
