@@ -2,13 +2,8 @@
 title: Florian Schuttkowski
 ---
 
-![](me.jpeg){ width=256px }
+![](me.jpeg){ width=128px }
 
----
-
-[CV](/cv.html)
-
----
 
 Lead iOS Developer / Architect bei Cross Charging Solutions, [Robert Bosch GmbH](https://www.bosch.de/ "Robert Bosch GmbH").
 
