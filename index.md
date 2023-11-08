@@ -4,7 +4,7 @@ title: Florian Schuttkowski
 
 ![](me.jpeg){ width=128px }
 
-Lead Developer iOS  
+**Lead Developer iOS**  
 Cross Solutions Charging  
 Robert Bosch GmbH  
 Leitzstraße 45  
@@ -22,10 +22,10 @@ florian dot schuttkowski at de dot bosch dot com
 
 ## Ausbildung
 - **B.Sc.**, [ Ravensburg-Weingarten University of Applied Sciences ](https://rwu.de „Ravensburg-Weingarten University of Applied Sciences“), Department of [Applied Informatics](https://www.rwu.de/studieren/studiengaenge/angewandte-informatik „Applied Informatics“). 2011
-	- Founding Member of Mobile Application Development Group (M.A.D.), first App Development Student Group at the University
+	- Gründungsmitglied der Mobile Application Development Group (M.A.D.), first App Development Student Group at the University
 
 ## Arbeitserfahrung
-- **Lead Developer iOS**, Cross Solutions Charging, [Robert Bosch GmbH](https://www.bosch.de/ „Robert Bosch GmbH“). 2021-Today
+- **Lead Developer iOS**, Cross Solutions Charging, [Robert Bosch GmbH](https://www.bosch.de/ „Robert Bosch GmbH“). 2021-Heute
 - **iOS Software Engineer**, Engineering Software Brokering Solutions, E-Bike & Automated Valet Parking, [Robert Bosch GmbH](https://www.bosch.de/ „Robert Bosch GmbH“). 2019-2021
 - **iOS Software Engineer**, Project Area Urban Mobility, [Robert Bosch GmbH](https://www.bosch.de/ „Robert Bosch GmbH“). 2018-2019
 - **Lead Developer iOS**, [myScotty GmbH](https://www.growplatform.com/stories/myscotty-exitstory/ „myScotty GmbH“). 2017-2019
@@ -35,4 +35,4 @@ florian dot schuttkowski at de dot bosch dot com
 
 ## Andere Aktivitäten
 - **iOS Software Developer**, [Ladefuchs, einfach schlau laden](https://ladefuchs.app/ „Ladefuchs, einfach schlau laden“). 2020-2021
-- **Podcast Host**, [Audiodump](https://audiodump.de „Audiodump“). 2017-Today
+- **Podcast Host**, [Audiodump](https://audiodump.de „Audiodump“). 2017-Heute
