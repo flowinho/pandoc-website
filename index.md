@@ -37,7 +37,7 @@ florian dot schuttkowski at de dot bosch dot com
 - **Game Developer and UI Consultant**, [Filmakademie Baden-Württemberg](https://www.filmakademie.de/ „Filmakademie Baden-Württemberg“). 2012-2013
 
 ## Andere Aktivitäten
-- **iOS Software Developer**, [Ladefuchs, einfach schlau laden](https://ladefuchs.app/ „Ladefuchs, einfach schlau laden“). 2020-2021
-- **Podcast Host**, [Audiodump](https://audiodump.de „Audiodump“). 2017-Heute
-- **Blogger „Gedankenflut“**, [Gedankenflut](https://gedankenflut.org „Gedankenflut“). 2023-Heute
-- **Open Source Developer**, [GitHub](https://github.com/flowinho „GitHub“). 2017-Heute
+- **iOS Software Developer**, [Ladefuchs, einfach schlau laden](https://ladefuchs.app). 2020-2021
+- **Podcast Host**, [Audiodump](https://audiodump.de). 2017-Heute
+- **Blogger „Gedankenflut“**, [Gedankenflut](https://gedankenflut.org). 2023-Heute
+- **Open Source Developer**, [GitHub](https://github.com/flowinho). 2017-Heute
