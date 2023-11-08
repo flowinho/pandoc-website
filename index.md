@@ -11,7 +11,7 @@ Leitzstraße 45
 70469 Stuttgart-Feuerbach  
 
 ## Kurze Biografie
-Aktuell arbeite ich als iOS Lead und Architekt in einem europaweiten Plattform-Projekt für EV-Ladeinfrastruktur der [Robert Bosch GmbH](https://bosch.de). Davor war ich iOS Entwickler in diversen Projekten der Robert Bosch GmBH und beim Start-up [myScotty](https://www.growplatform.com/stories/myscotty-exitstory/ "myScotty"). Vor meiner Bosch-Zeit war ich Technical Director in der Videospiel- und Softwarefirma [Zeitland media and games GmbH](https://zeitland.de "Zeitland media and games GmbH"). 
+Derzeit arbeite ich in der Position des iOS-Leiters und Architekten in einem europaweiten Plattform-Projekt für die Elektrofahrzeug-Ladeinfrastruktur der Robert Bosch GmbH. Davor war ich als iOS-Entwickler in verschiedenen Projekten der Robert Bosch GmbH sowie bei dem Start-up myScotty tätig. Vor meiner Anstellung bei Bosch hatte ich die Position des Technischen Direktors in der Videospiel- und Softwarefirma Zeitland media and games GmbH inne.
 
 ## Letzte Veröffentlichungen
 
