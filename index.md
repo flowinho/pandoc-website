@@ -32,7 +32,7 @@ florian dot schuttkowski at de dot bosch dot com
 - **iOS Software Engineer**, Engineering Software Brokering Solutions, E-Bike & Automated Valet Parking, [Robert Bosch GmbH](https://www.bosch.de/). 2019-2021
 - **iOS Software Engineer**, Project Area Urban Mobility, [Robert Bosch GmbH](https://www.bosch.de/). 2018-2019
 - **Lead Developer iOS**, [myScotty GmbH](https://www.growplatform.com/stories/myscotty-exitstory/). 2017-2019
-- **Technical Director**, [Zeitland media and games GmbH](https://zeitland.com/ „Zeitland media and games GmbH“), 2014-2017
+- **Technical Director**, [Zeitland media and games GmbH](https://zeitland.com/), 2014-2017
 - **Self-employed Software Developer**, Florian Schuttkowski Software Development. 2013-2014
 - **Game Developer and UI Consultant**, [Filmakademie Baden-Württemberg](https://www.filmakademie.de/). 2012-2013
 
