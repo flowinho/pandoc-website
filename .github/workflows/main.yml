@@ -28,8 +28,8 @@ jobs:
             -exec sh -c 'pandoc ${0} 
             -s
             -c pandoc.css
-            -A header.md
-            -B footer.md
+            -B includes/header.md
+            -A includes/footer.md
             -o ${0%.md}.html' {} \;"
       
       - name: Cleanup
