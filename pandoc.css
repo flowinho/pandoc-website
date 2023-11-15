@@ -109,6 +109,11 @@ text-decoration-line: none;
   --webkit-text-decoration: none;
  }
 }
+.logo-container, a:any-link {
+        text-decoration: none !important;
+        text-decoration-line: none;
+        --webkit-text-decoration: none;
+}
 .ascii-logo {
   padding: 0;
   margin: 0;
