@@ -81,8 +81,13 @@ dd p {
   text-align: center;
   margin-top: 8px;
   margin-bottom: 8px;
-  clear:both;w
+  clear:both;
   line-height: 0.76 !important;
+
+  a:any-link {
+        color: white !important;
+        text-decoration-line: none !important;
+  }
 
   a { text-decoration: none !important; }
   a:link { text-decoration: none !important; }
