@@ -81,14 +81,14 @@ dd p {
   text-align: center;
   margin-top: 8px;
   margin-bottom: 8px;
-  clear:both;
+  clear:both;w
   line-height: 0.76 !important;
 
-  a { text-decoration: none; }
-  a:link { text-decoration: none; }
-  a:visited { text-decoration: none; }
-  a:hover { text-decoration: none; }
-  a:active { text-decoration: none; }
+  a { text-decoration: none !important; }
+  a:link { text-decoration: none !important; }
+  a:visited { text-decoration: none !important; }
+  a:hover { text-decoration: none !important; }
+  a:active { text-decoration: none !important; }
 }
 .ascii-logo {
   padding: 0;
