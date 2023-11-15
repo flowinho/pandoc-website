@@ -84,6 +84,10 @@ dd p {
   clear:both;
   line-height: 0.76 !important;
 
+  text-decoration: none;
+  text-decoration-line: none;
+  --webkit-text-decoration: none;
+  
   a:any-link {
         color: white !important;
         text-decoration-line: none !important;
