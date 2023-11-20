@@ -12,7 +12,8 @@ Leitzstraße 45
 
 contact at flowinho dot com  
 florian dot schuttkowski at de dot bosch dot com  
-+49 
++49
+Matrix: flowinho:tchncs.de
 
 ## Ausbildung
 - **B.Sc.**, [ Ravensburg-Weingarten University of Applied Sciences ](https://rwu.de), Department of [Applied Informatics](https://www.rwu.de/studieren/studiengaenge/angewandte-informatik). 2011
