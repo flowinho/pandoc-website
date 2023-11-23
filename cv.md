@@ -33,4 +33,4 @@ Matrix: flowinho:tchncs.de
 - **iOS Software Developer**, [Ladefuchs, einfach schlau laden](https://ladefuchs.app). 2020-2021
 - **Podcast Host**, [Audiodump](https://audiodump.de). 2017-Heute
 - **Blogger „Gedankenflut“**, [Gedankenflut](https://gedankenflut.org). 2023-Heute
-- **Open Source Developer**, [GitHub](https://github.com/flowinho). 2017-Heutew
+- **Open Source Developer**, [GitHub](https://github.com/flowinho). 2017-Heute
